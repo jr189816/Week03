@@ -1,0 +1,17 @@
+body{
+    margin:0px;
+}
+div {
+    background-color:beige;
+    padding:10px;
+    font-weight:800;
+    font-family:inherit;
+    width:50%;
+}
+p {
+    background-color:aquamarine;
+    margin:0px;
+}
+span {
+    background-color:cadetblue;
+}
